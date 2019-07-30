@@ -1,0 +1,167 @@
+body
+{
+	background-image:url(../Media/food1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.TITLE
+{
+	font-family:Impact,Franklin Gothic Medium,Helvetica;
+	font-size:70px;
+	color:#993300;
+	margin-top:70px;
+	margin-left:450px;
+}
+table.LIST
+{
+	font-size:25px;
+	font-family:Cambria,Arial,Georgia;
+	color:#333333;
+	border-width:1px;
+	border-color:#999999;
+	border-collapse:collapse;
+	margin-left:360px;
+	margin-top:60px;
+}
+table.LIST th
+{
+	background:#B5CFD2;
+	border-width:3px;
+	padding:8px;
+	border-bottom-style:solid;
+	border-color:#999999;
+}
+#CHOOSE
+{
+	font-size:30px;
+	font-family:Cambria,Arial,Georgia;
+	color:red;
+	margin-left:300px;
+}
+#SUBTITLE1
+{
+	font-family:Times New Roman,Rockwell,Palatino;
+	font-size:50px;
+	color:#336600;
+	font-style:italic;
+	text-align:center;
+	margin-top:20px;
+}
+h2
+{
+	font-family:Times New Roman;
+	color:red;
+	font-size:23px;
+}
+p
+{
+	font-family:Arial;
+	font-size:17px;
+}
+.TEXT
+{
+	margin-left:100px;
+}
+#DISHES1,#DISHES2,#DISHES3
+{
+	float:right;
+	border:1px solid red;
+	width:300px;
+	height:200px;
+}
+#DISHES1
+{
+	margin-top:-600px;
+}
+#DISHES2
+{
+	margin-top:-375px;
+}
+#DISHES3
+{
+	margin-top:-150px;
+}
+#SUBTITLE2
+{
+	font-family:Times New Roman,Rockwell,Palatino;
+	font-size:50px;
+	color:#336699;
+	font-style:oblique;
+	text-align:center;
+	margin-top:20px;
+}
+#SUBTITLE3
+{
+	font-family:Consolas,Lucida Console;
+	font-size:50px;
+	color:#9933CC;
+	text-align:center;
+	margin-top:20px;
+	font-style:italic;
+}
+#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8
+{
+	border:3px solid red;
+	width:300px;
+	height:200px;
+}
+#b
+{
+	font-family:Arial;
+	font-size:23px;
+	color:red;
+	text-align:center;
+}
+.TOTAL
+{
+	margin-left:50px;
+}
+#TEXT2
+{
+	font-family:Georgia,Adele,Times New Roman;
+	font-size:23px;
+	color:red;
+}
+li
+{
+	font-family:Arial,Times New Roman;
+	font-size:17px;
+}
+.TABLE
+{
+	border-width:1px;
+	border-color:#8E388E;
+	margin-left:170px;
+}
+table.TABLE th
+{
+	font-family:Arial;
+	font-size:23px;
+	color:#CD00CD;
+}
+table.TABLE td
+{
+	font-size:17px;
+	color:black;
+	font-family:Arial;
+	width:50px;
+}
+.IMAGE
+{
+	width:300px;
+	height:200px;
+}
+#RETURN1
+{
+	font-size:20px;
+	font-family:Helvetica;
+	margin-left:100px;
+}
+#RETURN2
+{
+	float:right;
+	font-size:20px;
+	font-family:Helvetica;
+	margin-top:20px;
+	margin-right:100px;
+}

@@ -1,0 +1,80 @@
+body
+{
+	background-image:url(../Media/campus.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#COVERTITLE
+{
+	text-align:left;
+	font-family:Helvetica, Garamond, Arial;
+	font-size:110px;
+	color:#20416C;
+	margin-left:20px;
+	margin-top:10px;
+	font-style:italic;
+	text-decoration:underline;
+}
+#DATE
+{
+	font-family:Adele, Candara, Arial;
+	float:right;
+	font-size:40px;
+	margin-top:-120px;
+	margin-right:210px;
+	border:3px dotted black;
+}
+#SUBTITLE
+{
+	font-family:Candara,Arial,Helvetica;
+	font-size:52px;
+	margin-top:100px;
+	color:#4A4AFF;
+	margin-left:100px;
+}
+#TITLE1
+{
+	font-family:Didot,Aharoni,Arial;
+	font-size:50px;
+	color:#FF0000;
+	float:right;
+	margin-top:40px;
+}
+#TITLE2
+{
+	font-family:Didot,Arial,Adele;
+	font-size:50px;
+	color:#ADADAD;
+	float:left;
+	margin-top:150px;
+}
+#TITLE3
+{
+	font-family:Paranoid,Optima,Verdana;
+	font-size:50px;
+	margin-top:350px;
+	margin-left:100px;
+	color:#921AFF;
+}
+.EDITOR
+{
+	font-size:20px;
+	float:right;
+	margin-right:30px;
+	font-family:Arial;
+	margin-top:-60px;
+	color:#4D0000;
+	border:3px solid #8B4513;
+}
+#PICTURE1
+{
+	float:right;
+	margin-top:-200px;
+	margin-left:20px;
+}
+#PICTURE2
+{
+	float:right;
+	margin-top:-200px;
+	margin-right:-20px;
+}
